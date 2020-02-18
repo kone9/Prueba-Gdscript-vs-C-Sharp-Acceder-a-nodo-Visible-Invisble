@@ -3,10 +3,10 @@ Prueba para ver el rendimiento entre c# y Gdscript al acceder a los nodos y hace
 1.000.000 de veces 
 
 
-# GDscript 
-# Guardando el nodo en una variable en la función ready y luego llamar a la función
+GDscript 
+Guardando el nodo en una variable en la función ready y luego llamar a la función
 
-# Result Gdscript#: 1985
+Result Gdscript#: 1985
 
 #llamando al nodo directamente desde la función
 
@@ -24,9 +24,9 @@ Resultado Final en Gdscript: guardar el nodo en una variable en la función read
 
 
 # c sharp
-# Guardando el nodo en una variable en ready y luego llamar a la función que hace visible invisible
+Guardando el nodo en una variable en ready y luego llamar a la función que hace visible invisible
 
-# Result C#: 775
+Result C#: 775
 
 #llamando al nodo directamente desde la función y haciendolo visible
 
