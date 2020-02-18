@@ -6,7 +6,9 @@ Prueba para ver el rendimiento entre c# y Gdscript al acceder a los nodos y hace
 GDscript 
 Guardando el nodo en una variable en la función ready y luego llamar a la función
 
-Result Gdscript#: 1985
+<span style="color: green"> Result Gdscript#: 1985 </span>
+
+
 
 #llamando al nodo directamente desde la función
 
