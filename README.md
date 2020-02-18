@@ -17,7 +17,7 @@ Resultado Final en Gdscript: guardar el nodo en una variable en la función read
 # c sharp
 Guardando el nodo en una variable en ready y luego llamar a la función que hace visible invisible ---> Result C#: 775
 
-#Llamando al nodo directamente desde la función ---> Result C#: 14036
+Llamando al nodo directamente desde la función ---> Result C#: 14036
 
 "GRUPOS", guardando el grupo en una variable en la función ready y luego llamar a la función ---> Result C#: 794
 
