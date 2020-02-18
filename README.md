@@ -46,8 +46,7 @@ Resultado Final en C#: guardando el nodo en una variable en ready tuvo el mejor 
 
 # NOTA FINAL:
 # Guardar los nodos en una variable para luego modificar sus valores mejora notablemente el rendimiento del juego
-# C# tiene un mejor rendimineto cuando precargamos los nodos en variables
-# sin embargo Gdscript demostro tener un mejor rendimiento al acceder a los nodos usando el signo $
+# C# tiene un mejor rendimineto cuando precargamos los nodos en variables sin embargo Gdscript demostro tener un mejor rendimiento al acceder a los nodos usando el signo $
 
 
 
