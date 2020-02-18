@@ -4,29 +4,29 @@ Prueba para ver el rendimiento entre c# y Gdscript al acceder a los nodos y hace
 
 
 # GDscript 
-Guardando el nodo en una variable en ready y luego llamar a la función que hace visible invisible
+# Guardando el nodo en una variable en la función ready y luego llamar a la función
 
-Result Gdscript#: 1985
+# Result Gdscript#: 1985
 
-#llamando al nodo directamente desde la función y haciendolo visible
+#llamando al nodo directamente desde la función
 
 Result Gdscript#: 4613
 
-usando grupos y guardando el nodo en una variable en ready y luego llamar a la función que hace visible invisible
+"usando grupos", guardando el nodo en una variable en la función ready y luego llamar a la función
 
 Result Gdscript#: 1976
 
-Usando grupos y llamando al nodo directamente desde la función y haciendolo visible
+Usando grupos y llamando al nodo directamente desde la función
 
 Result Gdscript#: 11143
 
-Resultado Final en Gdscript: guardando el nodo en una variable en ready tuvo el mejor rendimiento.
+Resultado Final en Gdscript: guardar el nodo en una variable en la función ready tuvo el mejor rendimiento.
 
 
 # c sharp
-Guardando el nodo en una variable en ready y luego llamar a la función que hace visible invisible
+# Guardando el nodo en una variable en ready y luego llamar a la función que hace visible invisible
 
-Result C#: 775
+# Result C#: 775
 
 #llamando al nodo directamente desde la función y haciendolo visible
 
@@ -40,8 +40,7 @@ Usando grupos y llamando al nodo directamente desde la función y haciendolo vis
 
 Result C#: 15521
 
-
-Resultado Final en C#: guardando el nodo en una variable en ready tuvo el mejor rendimiento.
+Resultado Final en C#: guardar el nodo en una variable en la función ready tuvo el mejor rendimiento.
 
 
 # NOTA FINAL:
