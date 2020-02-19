@@ -21,7 +21,7 @@ Llamando al nodo directamente desde la función ---> Result C#: 14036
 
 "GRUPOS", guardando el grupo en una variable en la función ready y luego llamar a la función ---> Result C#: 794
 
-"GRUPOS", guardando el grupo en una variable en la función ready y luego llamar a la función ---> Result C#: 15521
+"GRUPOS",  llamando al grupo directamente desde la función ---> Result C#: 15521
 
 Resultado Final en C#: guardar el nodo en una variable en la función ready tuvo el mejor rendimiento.
 
